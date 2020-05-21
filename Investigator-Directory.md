@@ -3,7 +3,7 @@ title: Investigator Directory
 subtitle: Biographies
 layout: "page"
 icon: fa-book
-order: 4
+order: 2
 ---
 <h1>Investigator Directory</h1>
 <div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
