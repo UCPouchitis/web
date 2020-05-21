@@ -1,5 +1,7 @@
-  
 ---
 title: Investigator Directory
-layout: page
+subtitle: Biographies
+layout: "page"
+icon: fa-book
+order: 4
 ---
