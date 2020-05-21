@@ -24,7 +24,9 @@ layout: post
 <h4 class="et_pb_module_header">Sean Crosson, Ph.D.</h4>
 <p class="et_pb_member_position">Co-PI: Microbiology and Microbial Genetics Team Leader (Michigan State)</p>
 <div><p>Our group is focused on quantifying variability in the physiological properties of B. fragilis strains isolated from inflamed and non-inflamed patients. We are working to understand the genetic basis of these physiologic differences, and testing their contribution to disease in in vitro and in vivo models.&nbsp;</p>
-<ul class="et_pb_member_social_links"><li><a href="https://twitter.com/sean_crosson" class="et_pb_font_icon et_pb_twitter_icon"><span>Twitter</span></a></li><li><a href="https://www.linkedin.com/in/sean-crosson-5661607/" class="et_pb_font_icon et_pb_linkedin_icon"><span>LinkedIn</span></a></li></ul>
+<ul class="et_pb_member_social_links"><li>
+<a href="https://twitter.com/sean_crosson" class="et_pb_font_icon et_pb_twitter_icon"><span>Twitter</span></a>
+</li><li><a href="https://www.linkedin.com/in/sean-crosson-5661607/" class="et_pb_font_icon et_pb_linkedin_icon"><span>LinkedIn</span></a></li></ul>
 </div> <!-- .et_pb_team_member_description -->
 </div>
 
