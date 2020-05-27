@@ -1,5 +1,5 @@
 ---
-title: Host-Team  
+title: Host Team  
 layout: post
 icon: fa-users
 order: 1
