@@ -6,10 +6,11 @@ order: 7
 ---
 # For more information visit these websites:
 
-https://medicine.uchicago.edu/sections/gastroenterology-hepatology-nutrition/
 
-https://www.crohnscolitisfoundation.org/
+<a href="https://medicine.uchicago.edu/sections/gastroenterology-hepatology-nutrition/">University of Chicago Section of Gastroenterology, Hepatology, and Nutrition</a>
 
-https://www.cdc.gov/ibd/index.htm
+<a href="https://www.crohnscolitisfoundation.org/">Crohn's and Colitis Foundation</a>
 
-https://clinicaltrials.gov/
+<a href="https://www.cdc.gov/ibd/index.htm">CDC Inflammatory Bowel Disease Background</a>
+
+<a href="https://clinicaltrials.gov/">ClinicalTrials.gov</a>
