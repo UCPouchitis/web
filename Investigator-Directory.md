@@ -6,6 +6,9 @@ icon: fa-book
 order: 2
 ---
 <h1>Investigator Directory</h1>
+
+## Host Immunology Group
+
 <div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
 <div class="et_pb_module et_pb_team_member et_pb_team_member_0 clearfix  et_pb_bg_layout_light">
 <div class="et_pb_team_member_image et-waypoint et_pb_animation_fade_in et-animated"><img src="https://voices.uchicago.edu/rc2pouch/files/2019/12/gene.jpg" alt="Eugene B Chang, M.D."></div>
@@ -19,7 +22,21 @@ order: 2
 </div> <!-- .et_pb_team_member -->
 
 <div class="et_pb_module et_pb_team_member et_pb_team_member_1 clearfix  et_pb_bg_layout_light">
-				
+
+Jun Huang
+Anindita Basu
+Sebastian Pott
+
+## Microbiome Group
+
+Eugene Chang
+Mitchell Sogin
+Sean Crosson
+Savas Tay
+Dion Antonopoulos
+A.Murat Eren
+Laurie Comstock
+Eric Martens
 				
 <div class="et_pb_team_member_image et-waypoint et_pb_animation_fade_in et-animated"><img src="https://voices.uchicago.edu/rc2pouch/files/2019/11/rc2crosson-e1573842095174.jpg" alt="Sean Crosson, Ph.D."></div>
 <div class="et_pb_team_member_description">
@@ -31,3 +48,12 @@ order: 2
 </li><li><a href="https://www.linkedin.com/in/sean-crosson-5661607/" class="et_pb_font_icon et_pb_linkedin_icon"><span>LinkedIn</span></a></li></ul>
 </div> <!-- .et_pb_team_member_description -->
 </div>
+
+## Clinical Group
+
+David Rubin
+Sushila Dalal
+
+## Computational Group
+
+Dinanath Sulakhe
