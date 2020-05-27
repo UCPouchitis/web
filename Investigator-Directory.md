@@ -5,7 +5,6 @@ icon: fa-book
 order: 2
 ---
 
-
 ## Host Immunology Group
 
 <div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
@@ -24,6 +23,7 @@ order: 2
 <p class="et_pb_member_position">'Omics and Immunology Investigator (Pritzker School Molecular Engineering (PME))</p>
 <div><p>The Huang lab utilizes a combined expertise in immunology and single-cell omics technologies to understand the role of immune cells in IBD. Through these technologies, we hope to provide a comprehensive genetic/proteomic profile and spatial context to uncover aberrant immune cell function as it relates to disease pathogenesis.&nbsp;</p>
 <p>&nbsp;</p></div>
+<ul class="et_pb_member_social_links"><li>
 <a href="https://www.linkedin.com/in/jun-huang-64b076b/" class="et_pb_font_icon et_pb_linkedin_icon"><span>LinkedIn</span></a>
 
 Anindita Basu
