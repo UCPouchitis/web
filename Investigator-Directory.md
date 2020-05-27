@@ -23,10 +23,12 @@ order: 2
 <p class="et_pb_member_position">'Omics and Immunology Investigator (Pritzker School Molecular Engineering (PME))</p>
 <div><p>The Huang lab utilizes a combined expertise in immunology and single-cell omics technologies to understand the role of immune cells in IBD. Through these technologies, we hope to provide a comprehensive genetic/proteomic profile and spatial context to uncover aberrant immune cell function as it relates to disease pathogenesis.&nbsp;</p>
 <p>&nbsp;</p></div>
-<ul class="et_pb_member_social_links"><li>
-<a href="https://www.linkedin.com/in/jun-huang-64b076b/" class="et_pb_font_icon et_pb_linkedin_icon"><span>LinkedIn</span></a>
 
-Anindita Basu
+<div class="et_pb_team_member_image et-waypoint et_pb_animation_fade_in et-animated"><img src="https://voices.uchicago.edu/rc2pouch/files/2019/11/rc2basu.jpg" alt="Anindita &quot;Oni&quot; Basu, Ph.D." srcset="https://voices.uchicago.edu/rc2pouch/files/2019/11/rc2basu.jpg 240w, https://voices.uchicago.edu/rc2pouch/files/2019/11/rc2basu-150x150.jpg 150w" sizes="(max-width: 240px) 100vw, 240px">
+<h4 class="et_pb_module_header">Anindita "Oni" Basu, Ph.D.</h4>
+<p class="et_pb_member_position">Co-Lead: Host Side, Single Cell Genomics Investigator (UChicago Genetic Medicine)</p>
+<div><p>Summary Missing</p>
+
 Sebastian Pott
 
 ## Microbiome Group
