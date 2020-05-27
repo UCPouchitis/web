@@ -4,4 +4,7 @@ layout: "page"
 icon: fa-book
 order: 5
 ---
-<h4><strong><a href="https://voices.uchicago.edu/rc2pouch/files/2019/12/mBio.01713-16.pdf">1)</a></strong> Vineis JH, Ringus DL, <em>Morrison HG</em>, Delmont TO, <em>Dalal S</em>, Raffals LH, <em>Antonopoulos DA, Rubin DT, Eren AM, Chang EB, Sogin ML</em>. Patient-Specific Bacteroides Genome Variants in Pouchitis. <span role="menubar">MBio.</span>&nbsp;2016 Nov 15;7(6). pii: e01713-16. doi: 10.1128/mBio.01713-16.</h4>
+
+<a href="https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/6/2307/files/2019/12/mBio.01713-16.pdf">Patient-Specific Bacteroides Genome Variants in Pouchitis</a>
+
+<a href="https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/6/2307/files/2019/11/nihms906591.pdf">Early transcriptomic changes in the ileal pouch provide insight into the molecular pathogenesis of pouchitis and ulcerative colitis</a>
