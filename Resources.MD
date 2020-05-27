@@ -4,9 +4,6 @@ layout: "page"
 icon: fa-book
 order: 7
 ---
-# For more information visit these websites:
-
-
 
 <a href="https://medicine.uchicago.edu/sections/gastroenterology-hepatology-nutrition/">University of Chicago Section of Gastroenterology, Hepatology, and Nutrition</a>
 
