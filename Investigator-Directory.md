@@ -29,7 +29,10 @@ order: 2
 <p class="et_pb_member_position">Co-Lead: Host Side, Single Cell Genomics Investigator (UChicago Genetic Medicine)</p>
 <div><p>Summary Missing</p>
 
-Sebastian Pott
+<img src="https://voices.uchicago.edu/rc2pouch/files/2019/11/rc2pott-e1573842181525.jpg" alt="Sebastian Pott, Ph.D.">
+<h4 class="et_pb_module_header">Sebastian Pott, Ph.D.</h4>
+<p class="et_pb_member_position">Co-Lead: Host Side, Genomics/Epigenomics Investigator (UChicago Human Genetics)</p>
+<div><p>The gut is a highly complex organ with many different cell types within the mucosa, many of which are affected by, and contribute to, the development of pouchitis and IBD in general. We are using single cell genomics techniques to detect and understand cell-type specific gene expression that is associated with the development of pouchitis.</p>
 
 ## Microbiome Group
 
