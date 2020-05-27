@@ -1,11 +1,10 @@
 ---
 title: Investigator Directory
-subtitle: Biographies
 layout: "page"
 icon: fa-book
-order: 3
+order: 2
 ---
-<h1>Investigator Directory</h1>
+
 
 ## Host Immunology Group
 
@@ -17,13 +16,16 @@ order: 3
 <p class="et_pb_member_position">PI (UChicago GI)</p>
 <div><p>Eugene B. Chang, MD is the lead and senior investigator of the high impact, interdisciplinary NIDDK RC2 (DK122394) program focused on defining the microbial and genetic basis of complex immune disorders like inflammatory bowel diseases. As an internist and gastroenterologist trained at the University of Chicago, Dr. Chang is interested in defining the underpinnings of health, understanding the causes of disease, and finding solutions to improve patient management and clinical outcomes. As a scientist, he defines himself as an experimentalist whose expertise complements those of a very talented, multi-disciplinary RC2 team that includes experts in microbiology, genetics, immunology, computational sciences, cellular and molecular biology, engineering, and clinical research. Through this RC2 program, Dr. Chang hopes to find the causes of human inflammatory bowel diseases which will lead to prevention, more targeted interventions, and eventual cure.&nbsp;</p>
 <p>&nbsp;</p></div>
-				
-</div> <!-- .et_pb_team_member_description -->
-</div> <!-- .et_pb_team_member -->
 
 <div class="et_pb_module et_pb_team_member et_pb_team_member_1 clearfix  et_pb_bg_layout_light">
+<div class="et_pb_team_member_image et-waypoint et_pb_animation_fade_in et-animated"><img src="https://voices.uchicago.edu/rc2pouch/files/2019/11/rc2huang.jpg" alt="Jun Huang, Ph.D.">
+<div class="et_pb_team_member_description">
+<h4 class="et_pb_module_header">Jun Huang, Ph.D.</h4>
+<p class="et_pb_member_position">'Omics and Immunology Investigator (Pritzker School Molecular Engineering (PME))</p>
+<div><p>The Huang lab utilizes a combined expertise in immunology and single-cell omics technologies to understand the role of immune cells in IBD. Through these technologies, we hope to provide a comprehensive genetic/proteomic profile and spatial context to uncover aberrant immune cell function as it relates to disease pathogenesis.&nbsp;</p>
+<p>&nbsp;</p></div>
+<a href="https://www.linkedin.com/in/jun-huang-64b076b/" class="et_pb_font_icon et_pb_linkedin_icon"><span>LinkedIn</span></a>
 
-Jun Huang
 Anindita Basu
 Sebastian Pott
 
