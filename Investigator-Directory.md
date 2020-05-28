@@ -34,6 +34,7 @@ order: 2
 <p class="et_pb_member_position">Co-Lead: Host Side, Genomics/Epigenomics Investigator (UChicago Human Genetics)</p>
 <div><p>The gut is a highly complex organ with many different cell types within the mucosa, many of which are affected by, and contribute to, the development of pouchitis and IBD in general. We are using single cell genomics techniques to detect and understand cell-type specific gene expression that is associated with the development of pouchitis.</p>
 
+
 ## Microbiome Team
 
 <img src="https://voices.uchicago.edu/rc2pouch/files/2019/11/rc2sogin-e1573842083295.jpg" alt="Mitch Sogin, Ph.D.">
@@ -77,17 +78,19 @@ order: 2
 <p class="et_pb_member_position">Microbiology Collaborator (Michigan)</p>
 <div><p>Summary Missing</p>
 
+
 ## Clinical Team
 
+
 <img src="https://voices.uchicago.edu/rc2pouch/files/2019/11/rc2rubin-e1573842105622.jpg" alt="David T Rubin, M.D.">
-<h4 class="et_pb_module_header">David T Rubin, M.D.</h4>
+<h4 class="et_pb_module_header">David T Rubin, M.D.,FACG, AGAF, FACP, FASGE</h4>
 <p class="et_pb_member_position">Co-PI: Clinical Team Leader (UChicago GI)</p>
-<div><p>Summary Missing</p>
+<div><p>My role as co-investigator is to lead the clinical elements of this important trial and to assist in translation of the clinical aspects as they pertain to the translational and basic science portions. Specifically, as chief of the Section of Gastroenterology and senior member specializing in IBD, I have led parallel efforts to develop a robust pouch database and a novel phenotype system and scoring system for pouch inflammation.</p>
 
 <img src="https://voices.uchicago.edu/rc2pouch/files/2019/11/rc2sushila-e1573842288821.jpg" alt="Sushila Dalal, M.D.">
-<h4 class="et_pb_module_header">Sushila Dalal, M.D. FACG, AGAF, FACP, FASGE</h4>
+<h4 class="et_pb_module_header">Sushila Dalal, M.D.</h4>
 <p class="et_pb_member_position">Co-Lead: Clinical Investigator (UChicago GI)</p>
-<div><p>My role as co-investigator is to lead the clinical elements of this important trial and to assist in translation of the clinical aspects as they pertain to the translational and basic science portions. Specifically, as chief of the Section of Gastroenterology and senior member specializing in IBD, I have led parallel efforts to develop a robust pouch database and a novel phenotype system and scoring system for pouch inflammation.</p>
+<div><p>Summary Missing</p>
 	
 ## Computational Group
 
