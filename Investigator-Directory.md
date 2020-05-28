@@ -5,7 +5,7 @@ icon: fa-book
 order: 2
 ---
 
-## Host Immunology Group
+# Host Immunology Group
 
 <div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
 <div class="et_pb_module et_pb_team_member et_pb_team_member_0 clearfix  et_pb_bg_layout_light">
@@ -34,7 +34,7 @@ order: 2
 <p class="et_pb_member_position">Co-Lead: Host Side, Genomics/Epigenomics Investigator (UChicago Human Genetics)</p>
 <div><p>The gut is a highly complex organ with many different cell types within the mucosa, many of which are affected by, and contribute to, the development of pouchitis and IBD in general. We are using single cell genomics techniques to detect and understand cell-type specific gene expression that is associated with the development of pouchitis.</p>
 
-### Microbiome Team 
+# Microbiome Team 
 
 <img src="https://voices.uchicago.edu/rc2pouch/files/2019/11/rc2sogin-e1573842083295.jpg" alt="Mitch Sogin, Ph.D.">
 <h4 class="et_pb_module_header">Mitch Sogin, Ph.D.</h4>
@@ -78,7 +78,7 @@ order: 2
 <div><p>Summary Missing</p>
 
 
-### Clinical Team
+# Clinical Team
 
 
 <img src="https://voices.uchicago.edu/rc2pouch/files/2019/11/rc2rubin-e1573842105622.jpg" alt="David T Rubin, M.D.">
@@ -91,6 +91,6 @@ order: 2
 <p class="et_pb_member_position">Co-Lead: Clinical Investigator (UChicago GI)</p>
 <div><p>Summary Missing</p>
 	
-### Computational Group
+# Computational Group
 
 Dinanath Sulakhe
