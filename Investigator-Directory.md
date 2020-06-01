@@ -33,7 +33,6 @@ order: 2
 <h4 class="et_pb_module_header">Sebastian Pott, Ph.D.</h4>
 <p class="et_pb_member_position">Co-Lead: Host Side, Genomics/Epigenomics Investigator (UChicago Human Genetics)</p>
 <div><p>The gut is a highly complex organ with many different cell types within the mucosa, many of which are affected by, and contribute to, the development of pouchitis and IBD in general. We are using single cell genomics techniques to detect and understand cell-type specific gene expression that is associated with the development of pouchitis.&nbsp;</p>
-<p>&nbsp;</p></div>
 
 ## Microbiome Team
 
@@ -77,7 +76,6 @@ order: 2
 <h4 class="et_pb_module_header">Eric Martens, Ph.D.</h4>
 <p class="et_pb_member_position">Microbiology Collaborator (Michigan)</p>
 <div><p>Summary Missing&nbsp;</p>
-<p>&nbsp;</p></div>
 
 ## Clinical Team
 
@@ -90,7 +88,6 @@ order: 2
 <h4 class="et_pb_module_header">Sushila Dalal, M.D.</h4>
 <p class="et_pb_member_position">Co-Lead: Clinical Investigator (UChicago GI)</p>
 <div><p>Summary Missing&nbsp;</p>
-<p>&nbsp;</p></div>
 
 ## Computational Group
 
