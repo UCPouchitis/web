@@ -11,7 +11,7 @@ order: 2
 
 <div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
 <div class="et_pb_module et_pb_team_member et_pb_team_member_0 clearfix  et_pb_bg_layout_light">
-<div class="et_pb_team_member_image et-waypoint et_pb_animation_fade_in et-animated"><img src="https://voices.uchicago.edu/rc2pouch/files/2019/12/gene.jpg" alt="Eugene B Chang, M.D."></div>
+<div class="et_pb_team_member_image et-waypoint et_pb_animation_fade_in et-animated"><img src="https://voices.uchicago.edu/rc2pouch/files/2019/12/gene.jpg" alt="Eugene B Chang, M.D." class="center"></div>
 <div class="et_pb_team_member_description">
 <h4 class="et_pb_module_header">Eugene B Chang, M.D.</h4>
 <p class="et_pb_member_position">PI (UChicago GI)</p>
