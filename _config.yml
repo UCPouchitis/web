@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
     Description here.
 author: Your Incredible Name
 email: sample@gmail.com
-avatar: assets/images/avatar.png
+avatar: assets/images/RC2 Logo.png
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/web" # the subpath of your site, e.g. /blog
