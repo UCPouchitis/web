@@ -7,6 +7,7 @@ order: 2
 
 <hr>
 <h1 style="font-size:60px;">Host Immunology Group</h1>
+<hr>
 
 <div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
 <div class="et_pb_module et_pb_team_member et_pb_team_member_0 clearfix  et_pb_bg_layout_light">
@@ -37,6 +38,7 @@ order: 2
 
 <hr>
 <h1 style="font-size:60px;">Microbiome Team</h1>
+<hr>
 
 <div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
 <div class="et_pb_module et_pb_team_member et_pb_team_member_0 clearfix  et_pb_bg_layout_light">
@@ -84,6 +86,7 @@ order: 2
 
 <hr>
 <h1 style="font-size:60px;">Clinical Team</h1>
+<hr>
 
 
 <div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
@@ -101,5 +104,6 @@ order: 2
 
 <hr>
 <h1 style="font-size:60px;">Computational Group</h1>
+<hr>
 
 Dinanath Sulakhe
