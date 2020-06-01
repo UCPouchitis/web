@@ -1,5 +1,6 @@
 ---
 title: Investigator Directory
+subtitle: test1
 layout: "page"
 icon: fa-book
 order: 2
