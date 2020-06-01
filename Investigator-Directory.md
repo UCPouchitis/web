@@ -35,10 +35,8 @@ order: 2
 <div><p>The gut is a highly complex organ with many different cell types within the mucosa, many of which are affected by, and contribute to, the development of pouchitis and IBD in general. We are using single cell genomics techniques to detect and understand cell-type specific gene expression that is associated with the development of pouchitis.&nbsp;</p>
 
 ---
-## Microbiome Team
+title: Microbiome Team
 ---
-
-
 
 <div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
 <div class="et_pb_module et_pb_team_member et_pb_team_member_0 clearfix  et_pb_bg_layout_light">
@@ -82,10 +80,10 @@ order: 2
 <h4 class="et_pb_module_header">Eric Martens, Ph.D.</h4>
 <p class="et_pb_member_position">Microbiology Collaborator (Michigan)</p>
 <div><p>Summary Missing&nbsp;</p>
----
-  
+
+
 ## Clinical Team
----
+
 
 
 <div class="et_pb_column et_pb_column_4_4 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et-last-child">
