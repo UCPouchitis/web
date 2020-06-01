@@ -35,13 +35,13 @@ order: 2
 <div><p>The gut is a highly complex organ with many different cell types within the mucosa, many of which are affected by, and contribute to, the development of pouchitis and IBD in general. We are using single cell genomics techniques to detect and understand cell-type specific gene expression that is associated with the development of pouchitis.&nbsp;</p>
 <p>&nbsp;</p></div>
 
-## Microbiome Team 
+## Microbiome Team
 
 <img src="https://voices.uchicago.edu/rc2pouch/files/2019/11/rc2sogin-e1573842083295.jpg" alt="Mitch Sogin, Ph.D.">
 <h4 class="et_pb_module_header">Mitch Sogin, Ph.D.</h4>
 <p class="et_pb_member_position">Co-PI: Microbiome Investigator (Marine Biological Lab (MBL))</p>
 <div><p>Dr. Sogin characterizes microbial population structures via amplicon and shotgun metagenome analysis of temporal samples from pouchitis patients.</p>
-				
+
 <div class="et_pb_team_member_image et-waypoint et_pb_animation_fade_in et-animated"><img src="https://voices.uchicago.edu/rc2pouch/files/2019/11/rc2crosson-e1573842095174.jpg" alt="Sean Crosson, Ph.D."></div>
 <div class="et_pb_team_member_description">
 <h4 class="et_pb_module_header">Sean Crosson, Ph.D.</h4>
@@ -81,7 +81,6 @@ order: 2
 
 ## Clinical Team
 
-
 <img src="https://voices.uchicago.edu/rc2pouch/files/2019/11/rc2rubin-e1573842105622.jpg" alt="David T Rubin, M.D.">
 <h4 class="et_pb_module_header">David T Rubin, M.D.,FACG, AGAF, FACP, FASGE</h4>
 <p class="et_pb_member_position">Co-PI: Clinical Team Leader (UChicago GI)</p>
@@ -92,7 +91,7 @@ order: 2
 <p class="et_pb_member_position">Co-Lead: Clinical Investigator (UChicago GI)</p>
 <div><p>Summary Missing&nbsp;</p>
 <p>&nbsp;</p></div>
-	
+
 ## Computational Group
 
 Dinanath Sulakhe
