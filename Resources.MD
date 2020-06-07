@@ -1,14 +1,10 @@
 ---
 title: Resources
-layout: "page"
-icon: fa-book
-order: 7
+layout: page
+icon: fa-download
+order: 5
 ---
 
-<a href="https://medicine.uchicago.edu/sections/gastroenterology-hepatology-nutrition/">University of Chicago Section of Gastroenterology, Hepatology, and Nutrition</a>
+This page is currently under construction.
 
-<a href="https://www.crohnscolitisfoundation.org/">Crohn's and Colitis Foundation</a>
-
-<a href="https://www.cdc.gov/ibd/index.htm">CDC Inflammatory Bowel Disease Background</a>
-
-<a href="https://clinicaltrials.gov/">ClinicalTrials.gov</a>
+Once it is complete, it will serve as a public resource for data and metadata for our patients enrolled in our study.

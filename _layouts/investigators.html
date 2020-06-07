@@ -1,0 +1,43 @@
+---
+layout: default
+---
+{%- assign _investigators = site.investigators | sort: 'order' -%}
+{%- include header.html scrolly_nav=_investigators -%}
+<!-- Main -->
+<div id="main">
+	{%- for investigator in _investigators -%}
+        {%- assign _slug = investigator.name | strip_html | slugify -%}
+
+        {%- if investigator.photo and investigator.photo-alt -%}
+        	{%- capture _photo -%}
+        		<img src="{{- investigator.photo | relative_url -}}" alt="{{- investigator.photo-alt -}}" class="back">
+        	{%- endcapture -%}
+        	{%- assign _class = 'shade-one cover dark' -%}
+        {%- else -%}
+        	{%- assign _photo = '' -%}
+        	{%- capture _class -%}shade-{%- cycle 'two', 'three', 'four', 'three' -%}{%- endcapture -%}
+        {%- endif -%}
+
+        {%- if investigator.auto-header == 'none' -%}
+        	{%- assign _heading = "" -%}
+        {%- else -%}
+        	{%- capture _heading -%}
+        		<header>
+        			<h2>{{ investigator.name }}</h2>
+                    <span id="investigator-info">{{ investigator.position }} at {{ investigator.institution }}, {{ investigator.department }} (<a href="mailto:{{ investigator.e-mail }}">contact</a>).</span>
+                    <span id="investigator-group">{{ investigator.group }}</span>
+        		</header>
+        	{%- endcapture -%}
+        {%- endif -%}
+
+        <section id="{{ _slug }}" class="{{- _class -}}">
+          <div class="container">
+            {{- _photo -}}
+            {{- _heading -}}
+            <img id="investigator-photo" src={{ investigator.bio-photo }} alt={{ investigator.name }} />
+            {{- investigator.content -}}
+          </div>
+        </section>
+
+	{%- endfor -%}
+</div>

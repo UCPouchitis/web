@@ -2,7 +2,7 @@
 title: Publications
 layout: "page"
 icon: fa-book
-order: 5
+order: 4
 ---
 
 <a href="https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/6/2307/files/2019/12/mBio.01713-16.pdf">Patient-Specific Bacteroides Genome Variants in Pouchitis</a>
