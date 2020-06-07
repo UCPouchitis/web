@@ -44,4 +44,4 @@ dribbble_url:
 # Google Analytics Tracking ID goes here:
 google_analytics:
 
-collections: [sections]
+collections: [sections, investigators, teams]
