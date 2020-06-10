@@ -8,7 +8,7 @@ position: Professor
 institution: University of Chicago
 department: Medicine
 e-mail: vrai2@medicine.bsd.uchicago.edu
-bio-photo: https://rubinlab.uchicago.edu/files/2019/11/RubinD.-4.jpg
+bio-photo: https://voices.uchicago.edu/rc2pouch/files/2019/11/rc2rubin-e1573842105622.jpg
 ---
 
 David T. Rubin, MD, specializes in the treatment and assessment of digestive diseases. His clinical expertise includes inflammatory bowel diseases (Crohn’s disease and ulcerative colitis) and high-risk cancer syndromes.
