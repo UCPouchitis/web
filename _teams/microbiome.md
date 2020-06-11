@@ -1,5 +1,5 @@
 ---
-order: 2
+order: 1
 name: Microbiome Team
 team-image: assets/images/pic04.jpg
 ---
