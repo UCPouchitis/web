@@ -26,3 +26,5 @@ To date, we cannot predict if and when pouchitis will occur. Sampling during mul
 Previous discoveries from Dr. Chang’s lab has shown that, pouch tissue displayed anomalous transcriptomic gene expression compared to pre-pouch, regardless of pouchitis development (ref). Also, the team is studying whether genetic changes in Bacteroides fragilis, an otherwise gut commensal microbe, may be responsible for triggering pouchitis in susceptible individuals.
 
 The RC2 is based on the notion that disentangling host, microbial, and the integrative processes that manifest into pouchitis will lead to insights into the causes of some forms of IBD. This study links basic, translational, and clinical scientific research by focusing on molecular and genetic mechanisms of host and microbial cells with the objective of building a base for future interventions—preventative, therapeutic or development of a cure— for many types of complex immune diseases; ultimately, altering the outcome for these patients.
+
+<img src="Logo 6 Institutions.png" alt="Institutions Involved">
