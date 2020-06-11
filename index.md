@@ -27,4 +27,4 @@ Previous discoveries from Dr. Chang’s lab has shown that, pouch tissue display
 
 The RC2 is based on the notion that disentangling host, microbial, and the integrative processes that manifest into pouchitis will lead to insights into the causes of some forms of IBD. This study links basic, translational, and clinical scientific research by focusing on molecular and genetic mechanisms of host and microbial cells with the objective of building a base for future interventions—preventative, therapeutic or development of a cure— for many types of complex immune diseases; ultimately, altering the outcome for these patients.
 
-<img src="assets/images/Logo 6 Institutions.png" alt="Institutions Involved">
+![alt text][logo]:https://github.com/UCPouchitis/web/blob/master/assets/images/Logo%206%20Institutions.png
