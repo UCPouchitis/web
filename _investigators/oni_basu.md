@@ -1,7 +1,7 @@
 ---
 order: 3
 name: Anindita "Oni" Basu, Ph.D.
-group: Host Immunology Group
+group: Host Group
 speciality: Single-Cell Genomics
 
 position: Professor
