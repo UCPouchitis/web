@@ -1,7 +1,7 @@
 ---
 order: 1
 name: Eugene B. Chang, M.D.
-group: Host Immunology Group
+group: Host Group
 speciality: Metabolism and microbiome
 
 position: Professor
