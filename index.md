@@ -6,7 +6,8 @@ cover-photo: assets/images/Banner-Logo-Institutions.png
 cover-photo-alt: Institutions Banner
 icon: fa-home
 ---
-![Institutions Banner](assets/images/Banner-Logo-Institutions.png)
+
+![Institutions Banner](assets/images/Banner-Logo-Institutions.png){:height="50%" width="50%"}
 
 Welcome to UCPouchitis web resource.
 
