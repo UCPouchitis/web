@@ -1,7 +1,7 @@
 ---
 order: 3
 name: Clinical Team
-team-image: assets/images/clinical-group-image.png
+team-image: assets/images/clinical group image.png
 ---
 
 **Drs. Dalal and Rubin**(IBD clinical investigators) are in charge of all clinical operations, including patient recruitment, enrollment, follow-up, endoscopic procedures, sample acquisition, and collection of clinical metadata of patients followed longitudinally. 
