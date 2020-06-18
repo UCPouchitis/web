@@ -1,7 +1,7 @@
 ---
 order: 4
 name: Sebastian Pott, Ph.D.
-group: Host Immunology Group
+group: Host Group
 speciality: Genomics/Epigenomics
 
 position: Professor
