@@ -1,7 +1,7 @@
 ---
 order: 1
 name: Microbiome Team
-team-image: assets/images/microbiome-team-photo.jpg
+team-image: assets/images/microbiome team photo.jpg
 ---
 
 **Dr. Chang** (IBD, experimentalist) will serve as the Program PI and Director, responsible for overseeing every aspect of the program. **Dr. Sogin** (microbial ecologist) is the co-Director, assisting Dr. Chang in managing the strategic, operational, and data science aspects of the RC-2. 
