@@ -3,7 +3,7 @@ order: 4
 name: Sebastian Pott, Ph.D.
 group: Host Group
 speciality: Genomics/Epigenomics
-
+icon: fa-users
 position: Professor
 institution: University of Chicago
 department: Human Genetics
