@@ -3,7 +3,7 @@ order: 2
 name: Jun Huang, Ph.D.
 group: Host Group
 speciality: Omics and Immunology
-
+icon: fa-users
 position: Professor
 institution: University of Chicago
 department: Pritzker School Molecular Engineering
