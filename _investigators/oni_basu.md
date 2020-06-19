@@ -3,7 +3,7 @@ order: 3
 name: Anindita "Oni" Basu, Ph.D.
 group: Host Group
 speciality: Single-Cell Genomics
-
+icon: fa-users
 position: Professor
 institution: University of Chicago
 department: Genetic Medicine
