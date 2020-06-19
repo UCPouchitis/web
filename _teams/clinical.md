@@ -1,6 +1,7 @@
 ---
 order: 3
 name: Clinical Team
+icon: fa-puzzle-piece
 team-image: assets/images/clinical group image.png
 ---
 
