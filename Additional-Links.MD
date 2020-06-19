@@ -1,7 +1,7 @@
 ---
 title: Addtional Links
 layout: page
-icon: fa-download
+icon: fa-link
 order: 7
 ---
 
