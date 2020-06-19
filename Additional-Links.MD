@@ -6,6 +6,7 @@ order: 7
 ---
 
 # For more information visit:
+---
 
 [University of Chicago Gastroenterology Department](https://medicine.uchicago.edu/sections/gastroenterology-hepatology-nutrition/)
 
