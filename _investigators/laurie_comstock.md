@@ -3,7 +3,7 @@ order: 10
 name: Laurie Comstock, PhD
 group: Microbiome Group
 speciality: Microbiology
-
+icon: fa-users
 position: Professor
 institution: Harvard Medical School
 department: Medicine
