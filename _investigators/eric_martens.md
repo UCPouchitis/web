@@ -3,7 +3,7 @@ order: 12
 name: Eric Martens, PhD
 group: Microbiome Group
 speciality: Microbiology
-
+icon: fa-users
 position: Professor
 institution: University of Michigan Medical School
 department: Department of Microbiology and Immunology
