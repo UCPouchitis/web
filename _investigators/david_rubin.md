@@ -3,7 +3,7 @@ order: 13
 name: David T. Rubin, MD
 group: Clinical Group
 speciality: Gastroenterology
-
+icon: fa-users
 position: Professor
 institution: University of Chicago
 department: Medicine
