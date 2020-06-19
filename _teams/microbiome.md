@@ -1,6 +1,7 @@
 ---
 order: 1
 name: Microbiome Team
+icon: fa-puzzle-piece
 team-image: assets/images/microbiome team photo.jpg
 ---
 
