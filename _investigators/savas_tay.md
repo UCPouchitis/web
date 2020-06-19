@@ -3,7 +3,7 @@ order: 8
 name: Savas Tay, Ph.D.
 group: Microbiome Group
 speciality: Nanotechnology, Molecular Engineering
-
+icon: fa-users
 position: Professor
 institution: University of Chicago
 department: Pritzker School of Molecular Engineering
