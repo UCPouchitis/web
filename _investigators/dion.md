@@ -3,7 +3,7 @@ order: 11
 name: Dion Antonopoulos, PhD
 group: Microbiome Group
 speciality: Microbiology
-
+icon: fa-users
 position: Interim Division Director
 institution: Argonne National Laboratory
 department: Institute for Genomics and Systems Biology at The University of Chicago
