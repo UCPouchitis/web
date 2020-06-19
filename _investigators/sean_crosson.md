@@ -3,7 +3,7 @@ order: 7
 name: Sean Crosson, Ph.D.
 group: Microbiome Group
 speciality: Microbiology and Microbial Genetics
-
+icon: fa-users
 position: Professor
 institution: Michigan State University
 department: Microbiology
