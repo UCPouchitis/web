@@ -3,7 +3,7 @@ order: 1
 name: Eugene B. Chang, M.D.
 group: Host Group
 speciality: Metabolism and microbiome
-
+icon: fa-users
 position: Professor
 institution: University of Chicago
 department: Medicine
