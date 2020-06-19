@@ -1,6 +1,7 @@
 ---
 order: 2
 name: Host Team
+icon: fa-puzzle-piece
 team-image: assets/images/host group small intestine villi image.png
 ---
 
