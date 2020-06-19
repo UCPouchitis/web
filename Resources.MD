@@ -1,7 +1,7 @@
 ---
 title: Resources
 layout: page
-icon: fa-download
+icon: fa-sourcetree
 order: 5
 ---
 
