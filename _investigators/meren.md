@@ -3,7 +3,7 @@ order: 9
 name: A. Murat Eren (Meren), PhD
 group: Microbiome Group
 speciality: Microbial Omics, Computer Science
-
+icon: fa-users
 position: Professor
 institution: University of Chicago
 department: Medicine
