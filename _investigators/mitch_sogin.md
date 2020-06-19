@@ -3,7 +3,7 @@ order: 6
 name: Mitch Sogin, Ph.D.
 group: Microbiome Group
 speciality: Microbiome
-
+icon: fa-users
 position: Distinguished Scientist
 institution: Marine Biological Laboratory
 department: Josephine Bay Paul Center
