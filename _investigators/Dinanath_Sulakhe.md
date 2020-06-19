@@ -3,7 +3,7 @@ order: 15
 name: Dinanath Sulakhe, PhD
 group: Computational Group
 speciality: Bioinformatics
-
+icon: fa-users
 position: Professor
 institution: University of Chicago
 department: Engineering and Bioinformatics
