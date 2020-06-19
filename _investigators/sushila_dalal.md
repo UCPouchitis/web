@@ -3,7 +3,7 @@ order: 14
 name: Sushila Dalal, MD
 group: Clinical Group
 speciality: Gastroenterology
-
+icon: fa-users
 position: Professor
 institution: University of Chicago
 department: Medicine
