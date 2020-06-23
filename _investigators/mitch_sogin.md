@@ -11,4 +11,4 @@ e-mail: sogin@mbl.edu
 bio-photo: https://voices.uchicago.edu/rc2pouch/files/2019/11/rc2sogin-e1573842083295.jpg
 ---
 
-Dr. Sogin characterizes microbial population structures via amplicon and shotgun metagenome analysis of temporal samples from pouchitis patients.
+[Dr. Sogin](https://www.mbl.edu/jbpc/staff/sogin/) characterizes microbial population structures via amplicon and shotgun metagenome analysis of temporal samples from pouchitis patients.
