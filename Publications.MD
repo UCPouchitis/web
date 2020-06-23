@@ -2,7 +2,7 @@
 title: Publications
 layout: "page"
 icon: fa-book
-order: 4
+order: 5
 ---
 
 <a href="https://pubmed.ncbi.nlm.nih.gov/27935837/">Patient-Specific Bacteroides Genome Variants in Pouchitis</a>
