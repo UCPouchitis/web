@@ -2,7 +2,7 @@
 title: Resources
 layout: page
 icon: fa-download
-order: 5
+order: 6
 ---
 
 This page is currently under construction.
