@@ -11,4 +11,4 @@ e-mail: tays@uchicago.edu
 bio-photo: https://voices.uchicago.edu/rc2pouch/files/2019/11/rc2tay-e1573842068358.jpg
 ---
 
-Summary Missing.
+[Tay Lab](https://taylab.uchicago.edu/) wants to understand, model and manipulate complex biological systems to help cure diseases. To enable this, we develop high-throughput automated microfluidic and optofluidic systems that perform quantitative, multi-dimensional and dynamic measurements with single-cell resolution.
