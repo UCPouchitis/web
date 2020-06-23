@@ -2,7 +2,7 @@
 title: Addtional Links
 layout: page
 icon: fa-link
-order: 7
+order: 8
 ---
 
 # For more information visit:
