@@ -23,9 +23,12 @@ layout: default
         {%- else -%}
         	{%- capture _heading -%}
         		<header>
-        			<h2>{{ investigator.name }}</h2>
+                    <img id="investigator-photo" src={{ investigator.bio-photo }} alt={{ investigator.name }} />
+                    <div style="margin-left: 100px; text-align: left;">
+        			<h2 id="investigator-name">{{ investigator.name }}</h2>
                     <span id="investigator-info">{{ investigator.position }} at {{ investigator.institution }}, {{ investigator.department }} (<a href="mailto:{{ investigator.e-mail }}">contact</a>).</span>
                     <span id="investigator-group">{{ investigator.group }}</span>
+                    </div>
         		</header>
         	{%- endcapture -%}
         {%- endif -%}
@@ -34,7 +37,6 @@ layout: default
           <div class="container">
             {{- _photo -}}
             {{- _heading -}}
-            <img id="investigator-photo" src={{ investigator.bio-photo }} alt={{ investigator.name }} />
             {{- investigator.content -}}
           </div>
         </section>

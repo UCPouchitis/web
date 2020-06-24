@@ -210,9 +210,11 @@
     color: #7d0000;
     line-height: 1.5em;
     padding-bottom: 21px;
-    padding-top: 8px;
+    padding-top: 0px;
     display: block;
     border-top: 1px solid #666666;
+	font-size: 1.5em;
+    padding-left: 55px;
 }
 
 #investigator-photo {
@@ -230,6 +232,11 @@
 
 #investigator-info {
     font-size: smaller;
+    padding-left:10px;
+}
+
+#investigator-name {
+    margin-bottom: -15px;
 }
 
 #team-image {
