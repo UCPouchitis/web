@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: 
 name: Home
 cover-photo: assets/images/BannerLogo.png
 cover-photo-alt: Institutions Banner
