@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-name: 
+name: Home
 cover-photo: assets/images/BannerLogo.png
 cover-photo-alt: Institutions Banner
 icon: fa-home
