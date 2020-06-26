@@ -1,5 +1,5 @@
 ---
-title: Addtional Links
+title: Additional Links
 layout: page
 icon: fa-link
 order: 8
