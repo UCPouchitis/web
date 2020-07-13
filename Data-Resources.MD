@@ -1,8 +1,8 @@
 ---
-title: Data Resources
+title: Project Background
 layout: "page"
 icon: fa-book
 order: 4
 ---
 
-This sections will contain all data resources that are available publicly such as clinical metadata and metagenomic sequencing analyses.
+This sections will contain background information regarding Pouchitis, the microbiome, and the general scientific knowledge surrounding the study.
