@@ -2,5 +2,5 @@
 title: Investigators
 layout: investigators
 icon: fa-address-card
-order: 2
+order: 3
 ---
