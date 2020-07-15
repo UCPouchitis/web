@@ -9,7 +9,7 @@ order: 2
 In many cases of intestinal disease (like ulcerative colitis), surgery is required to replace a diseased colon with a part of the small intestine.[^1] This procedure, called a J Pouch Surgery, creates a pouch to hold stool before it is eliminated. However, for between 25% and 50% of patients with this procedure, the pouch experiences inflammation, swelling, and irritation.[^2] This causes symptoms including diarrhea, abdominal pain, joint pain, increased numbers of bowel movements, and fecal incontinence. Common treatments include antibiotics, but pouch infections may respond poorly to antibiotics, resulting in chronic antibiotic-refractory pouchitis.[^3],[^4],[^5]
 
 ## What is the gut microbiome?
-The gut microbiome, also known as the intestinal microbiota, is the diverse collection of bacteria living inside the human intestinal tract. These bacteria are good, and have been found to be important in helping the body regulate important processes.[^6] Microbiome bacteria also play an important role in regulating the immune system, and are a front line of defense against invading bacteria. Research has discovered that intestinal inflammation is directly connected with the specific composition of bacteria in the intestinal microbiome.[^7] Our research focuses on the effects of the microbiome on the development of pouchitis.[^4]  
+The gut microbiome, also known as the intestinal microbiota, is the diverse collection of bacteria living inside the human intestinal tract. These bacteria are good, and have been found to be important in helping the body regulate important processes.[^6] Microbiome bacteria also play an important role in regulating the immune system, and are a front line of defense against invading bacteria. Research has discovered that intestinal inflammation is directly connected with the specific composition of bacteria in the intestinal microbiome.[^7] Our research focuses on the effects of the microbiome on the development of pouchitis.[^8],[^9]  
 
 
 
@@ -28,3 +28,7 @@ The gut microbiome, also known as the intestinal microbiota, is the diverse coll
 [^6]: Hills RD, Jr., Pontefract BA, Mishcon HR, Black CA, Sutton SC, and Theberge CR. 2019. Gut Microbiome: Profound Implications for Diet and Disease. *Nutrients*. 11(7): 1613. doi: [10.3390/nu11071613](https://dx.doi.org/10.3390%2Fnu11071613)
 
 [^7]: Shreiner AB, Kao JY, and Young VB. 2015. The gut microbiome in health and in disease. *Curr Opin Gastroenterol*. 31(1): 69-75. doi: [10.1097/MOG.0000000000000139](https://dx.doi.org/10.1097%2FMOG.0000000000000139)
+
+[^8]: Vineis JH, Ringus DL, Morrison HG, et al. <a href="https://pubmed.ncbi.nlm.nih.gov/27935837/">Patient-Specific Bacteroides Genome Variants in Pouchitis</a>. *mBio*. 2016;7(6):e01713-16. doi:10.1128/mBio.01713-16
+
+[^9]: Huang Y, Dalal S, Antonopoulos D, et al. <a href="https://pubmed.ncbi.nlm.nih.gov/28221248/">Early transcriptomic changes in the ileal pouch provide insight into the molecular pathogenesis of pouchitis and ulcerative colitis</a>. *Inflamm Bowel Dis*. 2017;23(3):366-378. doi:10.1097/MIB.0000000000001027
