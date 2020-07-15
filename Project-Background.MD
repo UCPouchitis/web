@@ -16,7 +16,11 @@ The gut microbiome, also known as the intestinal microbiota, is the diverse coll
 
 
 [^1]: Yu ED, Shao Z, and Shen B. 2007. Pouchitis. World J Gastroenterol. 13(42): 5598-5604. doi: [10.3748/wjg.v13.i42.5598](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4172739/)
+
 [^2]: Mayo Clinic. 2020. Pouchitis - Symptoms and Causes. Accessed July 15, 2020. https://www.mayoclinic.org/diseases-conditions/pouchitis/symptoms-causes/syc-20361991. 
+
 [^3]: Shen B and Lashner BA. 2008. Diagnosis and Treatment of Pouchitis. World J Gastroenterol. 4(5): 355-361. [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3093723/). 
+
 [^4]: Zezos P and Saibil F. 2015. Inflammatory pouch disease: The spectrum of pouchitis. World J Gastroenterol. 21(29): 8739-8752. doi: [10.3748/wjg.v21.i29.8739](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4528017/)
+
 [^5]: Singh A, Khan F, Lopez R, Shen B, and Philpott J. 2019. Vedolizumab for chronic antibiotic-refractory pouchitis. Gastroenterol Rep (Oxf). 7(2): 121-126. doi: [10.1093/gastro/goz001](https://dx.doi.org/10.1093%2Fgastro%2Fgoz001) 
