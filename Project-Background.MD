@@ -5,7 +5,7 @@ icon: fa-book
 order: 2
 ---
 
-## What is Pouchitis?
+## What is pouchitis?
 In many cases of intestinal disease (like ulcerative colitis), surgery is required to replace a diseased colon with a part of the small intestine.[^1] This procedure, called a J Pouch Surgery, creates a pouch to hold stool before it is eliminated. However, for between 25% and 50% of patients with this procedure, the pouch experiences inflammation, swelling, and irritation.[^2] This causes symptoms including diarrhea, abdominal pain, joint pain, increased numbers of bowel movements, and fecal incontinence. Common treatments include antibiotics, but pouch infections may respond poorly to antibiotics, resulting in chronic antibiotic-refractory pouchitis.[^3],[^4],[^5]
 
 ## What is the gut microbiome?
