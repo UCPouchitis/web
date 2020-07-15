@@ -31,4 +31,4 @@ The gut microbiome, also known as the intestinal microbiota, is the diverse coll
 
 [^8]: Vineis JH, Ringus DL, Morrison HG, et al. 2016. Patient-Specific Bacteroides Genome Variants in Pouchitis. *mBio*. 7(6):e01713-16. doi: [10.1128/mBio.01713-16](https://pubmed.ncbi.nlm.nih.gov/27935837/)
 
-[^9]: Huang Y, Dalal S, Antonopoulos D, et al. 2017. Early transcriptomic changes in the ileal pouch provide insight into the molecular pathogenesis of pouchitis and ulcerative colitis. *Inflamm Bowel Dis*. 23(3):366-378. doi: [10.1097/MIB.0000000000001027](https://pubmed.ncbi.nlm.nih.gov/28221248/}
+[^9]: Huang Y, Dalal S, Antonopoulos D, et al. 2017. Early transcriptomic changes in the ileal pouch provide insight into the molecular pathogenesis of pouchitis and ulcerative colitis. *Inflamm Bowel Dis*. 23(3):366-378. doi: [10.1097/MIB.0000000000001027](https://pubmed.ncbi.nlm.nih.gov/28221248/)
