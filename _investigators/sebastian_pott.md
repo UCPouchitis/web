@@ -1,6 +1,6 @@
 ---
 order: 4
-name: Sebastian Pott, Ph.D.
+name: Sebastian Pott, PhD
 group: Host Group
 speciality: Genomics/Epigenomics
 icon: fa-users
