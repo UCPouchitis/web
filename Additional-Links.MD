@@ -5,6 +5,8 @@ icon: fa-link
 order: 8
 ---
 
+![University of Chciago Medicine](assets/images/UofChicagoMed pic.png){:height="90%" width="100%"}
+
 # For more information visit:
 ---
 
