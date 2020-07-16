@@ -4,7 +4,7 @@ layout: page
 icon: fa-link
 order: 8
 ---
-![University Hospital](assets/images/UofChicagoMed pic.jpg){:height="40%" width="65%"}
+![University Hospital](assets/images/UofChicagoMed pic.jpg){:height="50%" width="75%"}
 
 # For more information visit:
 ---
