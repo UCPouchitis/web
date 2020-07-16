@@ -1,6 +1,6 @@
 ---
 order: 6
-name: Mitch Sogin, Ph.D.
+name: Mitch Sogin, PhD
 group: Microbiome Group
 speciality: Microbiome
 icon: fa-users
