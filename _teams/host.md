@@ -1,6 +1,6 @@
 ---
 order: 1
-name: Host Team
+name: Host
 icon: fa-puzzle-piece
 team-image: assets/images/IL10 Histology.png
 ---
