@@ -1,6 +1,6 @@
 ---
 order: 1
-name: Eugene B. Chang, M.D.
+name: Eugene B. Chang, MD
 group: Project Director
 speciality: Metabolism and microbiome
 icon: fa-users
