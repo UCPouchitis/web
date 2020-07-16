@@ -15,7 +15,7 @@ The purpose of this NIDDK High Impact, Interdisciplinary Team Science, Multi-'Om
 
 We aim to understand host and microbial basis for human ulcerative colitis and pouchitis through the identification of role and mechanisms behind the host susceptibility and pathobiont factors.
 
-Our group is composed of [multiple investigators](Investigators.html) that work in [three main teams](Teams.html).
+Our group is composed of [multiple investigators](Investigators.html) that work in [four main teams](Teams.html).
 
 ## Summary
 
