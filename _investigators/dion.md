@@ -11,4 +11,4 @@ e-mail: dantonop@uchicago.edu
 bio-photo: https://voices.uchicago.edu/rc2pouch/files/2019/11/rc2anton-e1573842309148.png
 ---
 
-[Dionysios Antonopoulos](https://www.anl.gov/profile/dionysios-a-antonopoulos) is a microbiologist studying how communities of microorganisms live and thrive together in a variety of environments.
+[Dionysios Antonopoulos](https://www.anl.gov/profile/dionysios-a-antonopoulos) is Assistant Professor of Medicine, Section of Gastroenterology, Hepatology, and Nutrition at the University of Chicago, and Interim Division Director at Argonne National Laboratory. Dr. Antonopoulos studies how communities of microorganisms live and thrive together in a variety of environments.
