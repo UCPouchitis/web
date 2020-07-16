@@ -1,6 +1,6 @@
 ---
 order: 2
-name: Jun Huang, Ph.D.
+name: Jun Huang, PhD
 group: Host Group
 speciality: Omics and Immunology
 icon: fa-users
