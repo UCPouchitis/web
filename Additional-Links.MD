@@ -1,6 +1,8 @@
 ---
 title: Additional Links
 layout: page
+cover-photo: assets/images/UofChicagoMed pic.jpeg
+cover-photo-alt: University Hospital
 icon: fa-link
 order: 8
 ---
