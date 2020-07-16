@@ -13,4 +13,4 @@ order: 8
 
 [CDC Inflammatory Bowel Disease (IBD)](https://www.cdc.gov/ibd/index.htm)
 
-[Crohns and Colitis Foundation](https://www.crohnscolitisfoundation.org/)
+[Crohns and Colitis Foundation](https://www.crohnscolitisfoundation.org/) 
