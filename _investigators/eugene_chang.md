@@ -4,7 +4,7 @@ name: Eugene B. Chang, MD
 group: Project Director
 speciality: Metabolism and microbiome
 icon: fa-users
-position: Martin Boyer Professor of Medicine, Section of Gastroenterology, Hepatology, and Nutrition
+position: Martin Boyer Professor of Medicine
 institution: University of Chicago
 department: Medicine
 e-mail: echang@medicine.bsd.uchicago.edu
