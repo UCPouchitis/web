@@ -6,6 +6,8 @@ speciality: Single-Cell Genomics
 icon: fa-users
 position: Assistant Professor
 institution: University of Chicago
+position: Assistant Scientist
+institution: Argonne National Laboratory
 department: Genetic Medicine
 e-mail: onibasu@uchicago.edu
 bio-photo: https://voices.uchicago.edu/rc2pouch/files/2019/11/rc2basu.jpg
