@@ -1,6 +1,6 @@
 ---
 order: 3
-name: Anindita "Oni" Basu, Ph.D.
+name: Anindita "Oni" Basu, PhD
 group: Host Group
 speciality: Single-Cell Genomics
 icon: fa-users
