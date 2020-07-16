@@ -4,7 +4,7 @@ name: Dinanath Sulakhe, PhD
 group: Computational Group
 speciality: Bioinformatics
 icon: fa-users
-position: Director of Engineering, Bioinformatics Platforms, The University of Chicago
+position: Director of Engineering, Bioinformatics Platforms
 institution: University of Chicago
 department: Engineering and Bioinformatics
 e-mail: linkedin.com/in/sulakhedinanath
