@@ -1,6 +1,6 @@
 ---
 order: 7
-name: Sean Crosson, Ph.D.
+name: Sean Crosson, PhD
 group: Microbiome Group
 speciality: Microbiology and Microbial Genetics
 icon: fa-users
