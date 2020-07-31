@@ -1,7 +1,7 @@
 ---
 order: 10
 name: Laurie Comstock, PhD
-group: Microbiome Group
+group: Microbiome
 speciality: Microbiology
 icon: fa-users
 position: Professor
