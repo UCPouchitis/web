@@ -1,7 +1,7 @@
 ---
 order: 13
 name: David T. Rubin, MD
-group: Clinical Group
+group: Clinical
 speciality: Gastroenterology
 icon: fa-users
 position: Joseph B. Kirsner Professor of Medicine, Section Chief of Gastroenterology, Hepatology and Nutrition; Co-director, Digestive Diseases Center
