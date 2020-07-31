@@ -2,7 +2,7 @@
 title: Additional Links
 layout: page
 icon: fa-link
-order: 8
+order: 9
 ---
 ![University Hospital](assets/images/UofChicagoMed pic.jpg){:height="50%" width="75%"}
 
