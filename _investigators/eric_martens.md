@@ -1,7 +1,7 @@
 ---
 order: 12
 name: Eric Martens, PhD
-group: Microbiome Group
+group: Microbiome 
 speciality: Microbiology
 icon: fa-users
 position: Associate Professor
