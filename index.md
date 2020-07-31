@@ -34,7 +34,8 @@ Previous discoveries from Dr. Chang’s lab has shown that, pouch tissue display
 The study is based on a team approach to disentangle host, microbial, and the integrative processes that manifest into pouchitis leading to insights into the causes of some forms of IBD. This study links basic, translational, and clinical scientific research by focusing on molecular and genetic mechanisms of host and microbial cells with the objective of building a base for future interventions—preventative, therapeutic or development of a cure— for many types of complex immune diseases; ultimately, altering the outcome for these patients.
 
 For any inquiries about the study please contact: <ucpouchitis@uchicago.edu>
-If you are interested in joining in the research effort, see [Get Involved](Get-Involved.html).
+
+If you are interested in joining our research, see [Get Involved](Get-Involved.html).
 
 ![Institutions Banner](assets/images/BannerLogo.png){:height="90%" width="110%"}
 
