@@ -1,7 +1,7 @@
 ---
 order: 6
 name: Mitch Sogin, PhD
-group: Microbiome Group
+group: Microbiome
 speciality: Microbiome
 icon: fa-users
 position: Distinguished Senior Scientist
