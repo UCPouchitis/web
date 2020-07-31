@@ -1,7 +1,7 @@
 ---
 order: 14
 name: Sushila Dalal, MD
-group: Clinical Group
+group: Clinical
 speciality: Gastroenterology
 icon: fa-users
 position: Assistant Professor
