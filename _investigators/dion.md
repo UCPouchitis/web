@@ -1,7 +1,7 @@
 ---
 order: 11
 name: Dion Antonopoulos, PhD
-group: Microbiome Group
+group: Microbiome
 speciality: Microbiology
 icon: fa-users
 position: Interim Division Director
