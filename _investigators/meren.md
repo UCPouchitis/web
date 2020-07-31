@@ -1,7 +1,7 @@
 ---
 order: 9
 name: A. Murat Eren (Meren), PhD
-group: Computational Group
+group: Computational
 speciality: Microbial Omics, Computer Science
 icon: fa-users
 position: Assistant Professor
