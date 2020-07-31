@@ -1,7 +1,7 @@
 ---
 order: 7
 name: Sean Crosson, PhD
-group: Microbiome Group
+group: Microbiome
 speciality: Microbiology and Microbial Genetics
 icon: fa-users
 position: Rudolph Hugh Endowed Professor
