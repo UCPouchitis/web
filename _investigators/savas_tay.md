@@ -1,7 +1,7 @@
 ---
 order: 8
 name: Savas Tay, PhD
-group: Microbiome Group
+group: Microbiome
 speciality: Nanotechnology, Molecular Engineering
 icon: fa-users
 position: Associate Professor
