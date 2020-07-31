@@ -1,7 +1,7 @@
 ---
 title: Get Involved
 layout: page
-icon: fa-hand-paper-o
+icon: fa-plug
 order: 8
 ---
 
