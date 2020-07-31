@@ -1,7 +1,7 @@
 ---
 title: Get Involved
 layout: page
-icon: fa-plug
+icon: fa-user-plus
 order: 8
 ---
 
