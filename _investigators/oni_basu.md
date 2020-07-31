@@ -1,7 +1,7 @@
 ---
 order: 3
 name: Anindita "Oni" Basu, PhD
-group: Host Group
+group: Host
 speciality: Single-Cell Genomics
 icon: fa-users
 position: Assistant Professor
