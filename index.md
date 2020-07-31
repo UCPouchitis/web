@@ -8,7 +8,6 @@ icon: fa-home
 ---
 
 ![University Hospital](assets/images/UofChicagoMed pic.jpg){:height="50%" width="75%"}
-
 Welcome to UCPouchitis web resource.
 
 The purpose of this NIDDK High Impact, Interdisciplinary Team Science, Multi-'Omic project (RC2DK122394) is to study the cause of the Inflammatory Bowel Disease (IBD).
