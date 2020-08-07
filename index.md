@@ -2,8 +2,7 @@
 layout: page
 title: Home
 name: Home
-cover-photo: assets/images/BannerLogo.png
-cover-photo-alt: Institutions Banner
+cover-photo: assets/images/UofChicagoMed pic.jpg
 icon: fa-home
 ---
 
