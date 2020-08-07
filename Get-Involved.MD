@@ -10,3 +10,5 @@ Our research depends on the support of generous donors, along with grant funding
 
 ### Volunteer
 In order to study Pouchitis, we are looking to recruit research volunteers to provide samples. If you would like to know more about volunteering with the Pouchitis project, please contact us at: ucpouchitis@uchicago.edu
+
+![Team Pouchitis](assets/images/RC2 Logo copy.png)
