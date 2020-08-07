@@ -6,7 +6,7 @@ cover-photo: assets/images/UofChicagoMed pic.jpg
 icon: fa-home
 ---
 
-![University Hospital](assets/images/UofChicagoMed pic.jpg){:height="55%" width="105%"}
+![University Hospital](assets/images/UofChicagoMed pic.jpg){:height="55%" width="95%"}
 
 Welcome to UCPouchitis web resource.
 
