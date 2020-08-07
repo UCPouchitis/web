@@ -4,7 +4,6 @@ title: Home
 name: Home
 cover-photo: assets/images/UofChicagoMed-pic.jpg
 cover-photo-alt: The University of Chicago Pouchitis Project
-auto-header: none
 icon: fa-home
 ---
 
