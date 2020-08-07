@@ -3,7 +3,8 @@ layout: page
 title: Home
 name: Home
 cover-photo: assets/images/UChicagoMed.jpg
-cover-photo-alt: The University of Chicago Pouchitis Project
+cover-photo-alt:  University of Chicago Pouchitis Project
+auto-header: none
 icon: fa-home
 ---
 
