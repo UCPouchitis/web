@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Home
-cover-photo: ![University Hospital](assets/images/UofChicagoMed pic.jpg)
+name: Home
+cover-photo: assets/images/UofChicagoMed pic.jpg
+cover-photo-alt: The University of Chicago Pouchitis Project
 icon: fa-home
 ---
 
