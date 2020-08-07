@@ -2,7 +2,7 @@
 layout: page
 title: Home
 name: Home
-cover-photo: assets/images/UofChicagoMed pic.jpg
+cover-photo: ![University Hospital](assets/images/UofChicagoMed pic.jpg)
 icon: fa-home
 ---
 
