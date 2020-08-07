@@ -2,12 +2,12 @@
 layout: page
 title: Home
 name: Home
-cover-photo: assets/images/UofChicagoMed-pic.jpg
+cover-photo: assets/images/UChicagoMed.jpg
 cover-photo-alt: The University of Chicago Pouchitis Project
 icon: fa-home
 ---
 
-![University Hospital](assets/images/UofChicagoMed pic.jpg){:height="55%" width="95%"}
+![University Hospital](assets/images/UChicagoMed.jpg){:height="55%" width="95%"}
 
 Welcome to UCPouchitis web resource.
 
