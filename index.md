@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Home bananas
 name: Home
 cover-photo: assets/images/UChicagoM.jpg
 cover-photo-alt:  University of Chicago Pouchitis Project
