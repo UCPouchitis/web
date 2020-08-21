@@ -9,7 +9,8 @@ order: 2
 In many cases of intestinal disease (like ulcerative colitis), surgery is required to replace a diseased colon with a part of the small intestine.[^1] This procedure, called a J Pouch Surgery, creates a pouch to hold stool before it is eliminated. However, for between 25% and 50% of patients with this procedure, the pouch experiences inflammation, swelling, and irritation.[^2] This causes symptoms including diarrhea, abdominal pain, joint pain, increased numbers of bowel movements, and fecal incontinence. Common treatments include antibiotics, but pouch infections may respond poorly to antibiotics, resulting in chronic antibiotic-refractory pouchitis.[^3] [^4] [^5]
 
 ![Pouchitis Diagram](assets/images/PouchitisImage.jpg){:height="15%" width="35%"}
-Image courtesy of ___
+
+Image courtesy of Kolar et al., 2011. [^10]
 
 ## What is the gut microbiome?
 The gut microbiome, also known as the intestinal microbiota, is the diverse collection of bacteria living inside the human intestinal tract. These bacteria are good, and have been found to be important in helping the body regulate important processes.[^6] Microbiome bacteria also play an important role in regulating the immune system, and are a front line of defense against invading bacteria. Research has discovered that intestinal inflammation is directly connected with the specific composition of bacteria in the intestinal microbiome.[^7] Our research focuses on the effects of the microbiome on the development of pouchitis.[^8] [^9]  
@@ -35,3 +36,6 @@ The gut microbiome, also known as the intestinal microbiota, is the diverse coll
 [^8]: Vineis JH, Ringus DL, Morrison HG, et al. 2016. Patient-Specific Bacteroides Genome Variants in Pouchitis. *mBio*. 7(6):e01713-16. doi: [10.1128/mBio.01713-16](https://pubmed.ncbi.nlm.nih.gov/27935837/)
 
 [^9]: Huang Y, Dalal S, Antonopoulos D, et al. 2017. Early transcriptomic changes in the ileal pouch provide insight into the molecular pathogenesis of pouchitis and ulcerative colitis. *Inflamm Bowel Dis*. 23(3):366-378. doi: [10.1097/MIB.0000000000001027](https://pubmed.ncbi.nlm.nih.gov/28221248/)
+
+[^10]: Kolar B, Speranza J, Bhatt S, and Dogra V. 2011. Crohn's disease: Multimodality Imaging of Surgical Indications, Operative Procedures, and Complications. *J Clin Imaging Sci* 1:37. doi: [10.4103/2156-7514.82966]
+
