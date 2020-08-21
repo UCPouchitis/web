@@ -22,7 +22,7 @@ Our group is composed of [multiple investigators](Investigators.html) that work 
 
 ## Summary
 
-Inflammatory bowel diseases (IBD) result from the convergence of host, environmental, and microbial factors— each necessary, but not sufficient to cause disease. Although these factors are known, how these mechanisms interact to contribute to disease susceptibility and microbial triggers are still unclear. Our research team, consisting of multi-institutional, interdisciplinary experts, are utilizing a novel clinical model to address this issue.
+Inflammatory bowel diseases (IBD) result from the convergence of host, environmental, and microbial factors— each necessary, but not sufficient to cause disease. Each of our teams is focused on investigating a unique aspect of these factors, identifying how these mechanisms interact to contribute to disease susceptibility through microbial triggers. Our research team, consisting of multi-institutional, interdisciplinary experts, are utilizing a novel clinical model to address this issue.
 
 ## Advantage of the Study Design
 
