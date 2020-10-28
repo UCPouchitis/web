@@ -8,7 +8,7 @@ position: Director of Engineering, Bioinformatics Platforms
 institution: University of Chicago
 department: Engineering and Bioinformatics
 e-mail: linkedin.com/in/sulakhedinanath
-bio-photo: ![](assets/images/thumbnail_dina2020.png)
+bio-photo: assets/images/thumbnail_dina2020.png
 ---
 
 Dr. Dinanath Sulakhe is the Director of Engineering, Bioinformatics Platforms - Research, Innovation and National Laboratories, at the University of Chicago.
